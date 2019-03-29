@@ -1,4 +1,10 @@
-In the project directory, you can run:
+In the project directory:
+
+First, install dependencies (builds /node_modules):
+
+### `npm install`
+
+Then run with:
 
 ### `yarn start`
 
